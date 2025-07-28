@@ -260,7 +260,7 @@ class Config:
     "error": {
         "code": "string",
         "message": "string", 
-        "details": {},  # optional
+        "details": {},
         "correlation_id": "string"
     }
 }
