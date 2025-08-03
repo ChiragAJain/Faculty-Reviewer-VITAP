@@ -1,4 +1,4 @@
-# University Faculty Review System
+# University Faculty Review System [Under Development]
 
 An anonymous faculty review platform that allows students to evaluate faculty members while maintaining complete anonymity through university email verification.
 
